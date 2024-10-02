@@ -6,3 +6,4 @@ A curated list of projects that aim at enhancing or supporting the Arabic langua
 
 
 [arabic-tech-terminology](https://github.com/mohsenuss91/arabic-tech-terminology/blob/master/en-ar.md)
+[Qamous.org](https://github.com/Qamous/Qamous)
